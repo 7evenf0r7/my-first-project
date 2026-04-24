@@ -1,3 +1,3 @@
-ghnfgfngn
-нгаага
-?php echo "Hello World"; ?
+<?php
+
+echo "Hello, GitHub!";
